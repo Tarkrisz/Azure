@@ -17,6 +17,7 @@ namespace Azure.ViewModel
 		{
 			_users = new UsersService();
 			Load();
+
 		}
 
 		private void Load()
